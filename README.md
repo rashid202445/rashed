@@ -4,7 +4,7 @@
 
 - 💡 [Profile]([https://rashid202445.github.io/myCV])
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [@abhishekpatelmc](https://www.linkedin.com/in/abhishekpatelmc/)
+- 📫 How to reach me: [@rashed](https://www.linkedin.com/in/%D8%B1%D8%B4%D9%8A%D8%AF-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%BA%D9%8A-882605ba/)
 - 🔭 I’m currently working on **Next.js**
 <!-- - 📝 [Resume](https://flowcv-user-file-uploads-prod.s3.eu-central-1.amazonaws.com/websiteButton/ksr5trb8ylq9hsa37zdcxlfvcq.pdf) -->
 <!-- - 🌱 I’m currently learning **Go** -->
