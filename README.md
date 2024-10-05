@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm <a href="https://abhishekpatel.dev/">Abhishek Patel</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://abhishekpatel.dev/](https://rashid202445.github.io/myCV">Rashed Al-Sayagih</a></h1>
 <h3 align="center">A Passionate Developer</h3>
 <img align="right" alt="GIF" src="https://github.com/abhishekpatelmc/store/blob/master/asset/code.gif?raw=true" width="400" height="260" />
 
-- 💡 [Profile](https://abhishekpatel.dev/)
+- 💡 [Profile]([https://rashid202445.github.io/myCV])
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@abhishekpatelmc](https://www.linkedin.com/in/abhishekpatelmc/)
 - 🔭 I’m currently working on **Next.js**
@@ -15,14 +15,14 @@
 <p align="left">
 <a href="https://twitter.com/@mcabhishekpatel" target="_blank" style="none" >
   <img align="center" src="https://img.shields.io/badge/-@mcabhishekpatel-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mcabhishekpatel" alt="mcabhishekpatel" /></a> 
-<a href="https://linkedin.com/in/abhishekpatelmc" target="blank" style="none" >
-  <img align="center" src="https://img.shields.io/badge/-abhishekpatelmc-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishekpatelmc/" alt="abhishekpatelmc" /></a>
+<a href="https://linkedin.com/in/%D8%B1%D8%B4%D9%8A%D8%AF-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%BA%D9%8A-882605ba" target="blank" style="none" >
+  <img align="center" src="https://img.shields.io/badge/-abhishekpatelmc-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%D8%B1%D8%B4%D9%8A%D8%AF-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%BA%D9%8A-882605ba/" alt="abhishekpatelmc" /></a>
 <br>
   <!-- 
 <a href="https://instagram.com/abhishekpatelmc" target="blank" style="none" >
   <img align="center" src="https://img.shields.io/badge/-@abhishekpatelmc-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/abhishekpatelmc/" alt="abhishekpatelmc" /></a> -->
-<a href="mailto:mcabhishekpatel2017@gmail.com" target="blank" style="none" >
-  <img align="center" src="https://img.shields.io/badge/-mcabhishekpatel2017-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mcabhishekpatel2017@gmail.com" alt="mcabhishekpatel2017" /></a>
+<a href="mailto:rashid201143@gmail.com" target="blank" style="none" >
+  <img align="center" src="https://img.shields.io/badge/-mcabhishekpatel2017-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rashid201143@gmail.com" alt="mcabhishekpatel2017" /></a>
 </p>
 
 <!-- <hr> -->
