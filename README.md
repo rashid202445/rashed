@@ -14,15 +14,15 @@
 <h4 lign="left">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/@rashed" target="_blank" style="none" >
-  <img align="center" src="https://img.shields.io/badge/-@mcabhishekpatel-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mcabhishekpatel" alt="mcabhishekpatel" /></a> 
+  <img align="center" src="https://img.shields.io/badge/-@Rashid201143-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mcabhishekpatel" alt="mcabhishekpatel" /></a> 
 <a href="https://linkedin.com/in/%D8%B1%D8%B4%D9%8A%D8%AF-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%BA%D9%8A-882605ba" target="blank" style="none" >
-  <img align="center" src="https://img.shields.io/badge/-abhishekpatelmc-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%D8%B1%D8%B4%D9%8A%D8%AF-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%BA%D9%8A-882605ba/" alt="rashid" /></a>
+  <img align="center" src="https://img.shields.io/badge/-Rashid201143-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%D8%B1%D8%B4%D9%8A%D8%AF-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%BA%D9%8A-882605ba/" alt="rashid" /></a>
 <br>
   <!-- 
 <a href="https://instagram.com/abhishekpatelmc" target="blank" style="none" >
   <img align="center" src="https://img.shields.io/badge/-@abhishekpatelmc-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/abhishekpatelmc/" alt="abhishekpatelmc" /></a> -->
 <a href="mailto:rashid201143@gmail.com" target="blank" style="none" >
-  <img align="center" src="https://img.shields.io/badge/-mcabhishekpatel2017-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rashid201143@gmail.com" alt="rashid201143" /></a>
+  <img align="center" src="https://img.shields.io/badge/-Rashid201143-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rashid201143@gmail.com" alt="rashid201143" /></a>
 </p>
 
 <!-- <hr> -->
